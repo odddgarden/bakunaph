@@ -7,8 +7,8 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #121212; /* Dark background */
-            color: #E0E0E0; /* Light gray text */
+            background-color: #121212; 
+            color: #E0E0E0; 
             margin: 0;
             padding: 20px;
         }
@@ -22,7 +22,7 @@
             max-width: 600px;
             margin: 20px auto;
             padding: 20px;
-            background-color: #1E1E1E; /* Darker gray for card */
+            background-color: #1E1E1E; 
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
         }
@@ -33,18 +33,18 @@
         label {
             margin-bottom: 5px;
             font-weight: bold;
-            color: #E0E0E0; /* Light gray text */
+            color: #E0E0E0; 
         }
         input {
             margin-bottom: 10px;
             padding: 10px;
-            border: 1px solid #4CAF50; /* Medium green border */
+            border: 1px solid #4CAF50; 
             border-radius: 4px;
-            background-color: #2C2C2C; /* Dark input background */
-            color: #E0E0E0; /* Light gray text */
+            background-color: #2C2C2C; 
+            color: #E0E0E0; 
         }
         button {
-            background-color: #4CAF50; /* Medium green */
+            background-color: #4CAF50; 
             color: white;
             padding: 10px;
             border: none;
@@ -53,26 +53,26 @@
             font-size: 16px;
         }
         button:hover {
-            background-color: #388E3C; /* Dark green on hover */
+            background-color: #388E3C; 
         }
         .result {
             margin-top: 20px;
             padding: 20px;
             border-radius: 8px;
-            background-color: #1E1E1E; /* Darker gray for result card */
-            color: #E0E0E0; /* Light gray text */
+            background-color: #1E1E1E; 
+            color: #E0E0E0; 
         }
         .result h2 {
-            color: #4CAF50; /* Medium green */
+            color: #4CAF50; 
         }
         .result p {
             font-size: 18px;
         }
         .result strong {
-            color: #4CAF50; /* Medium green for positive result */
+            color: #4CAF50; 
         }
         .result strong.no {
-            color: #F44336; /* Red for negative result */
+            color: #F44336; 
         }
     </style>
 </head>
